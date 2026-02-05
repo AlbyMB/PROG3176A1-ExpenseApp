@@ -134,3 +134,4 @@ C:\Users\dell\Desktop\Assignment1AlbyPROG3176\obj\Debug\net8.0\refint\Assignment
 C:\Users\dell\Desktop\Assignment1AlbyPROG3176\obj\Debug\net8.0\Assignment1AlbyPROG3176.pdb
 C:\Users\dell\Desktop\Assignment1AlbyPROG3176\obj\Debug\net8.0\Assignment1AlbyPROG3176.genruntimeconfig.cache
 C:\Users\dell\Desktop\Assignment1AlbyPROG3176\obj\Debug\net8.0\ref\Assignment1AlbyPROG3176.dll
+C:\Users\dell\Desktop\Assignment1AlbyPROG3176\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
